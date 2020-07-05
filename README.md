@@ -15,3 +15,6 @@ This repository contains the code for the submission of the WorldHackers Hackath
 
 #### Website
 Click [here](http://world-hackers.surge.sh) to see the demo website.
+
+#### Social Media
+Follow me on [Twitter](https://twitter.com/TheSumitBanik)&nbsp;<img src="https://image.flaticon.com/icons/svg/1312/1312142.svg" height="16px" width="16px" style="margin-top:30px!important"/>
