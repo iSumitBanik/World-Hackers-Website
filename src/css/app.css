@@ -1,0 +1,77 @@
+@font-face {
+  font-family: Zilla Slab;
+  src: url("../fonts/ZillaSlab-Regular.ttf");
+}
+@font-face {
+  font-family: Open Sans;
+  src: url("../fonts/OpenSans-Regular.ttf");
+}
+
+body {
+  font-family: Open Sans, sans-serif;
+}
+.opening {
+  padding-top: 100px;
+}
+.opening-image {
+  width: 450px;
+  height: 400px;
+}
+.openingtext {
+  font-size: 17px;
+}
+.custom-nav {
+  background-color: #2a9d8f;
+}
+.custom-btn {
+  text-transform: none;
+  background-color: #05668d;
+  padding: 0px 40px 20px 40px;
+  border-radius: 10px;
+}
+
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(139, 139, 139);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.card-image {
+  width: 335px;
+  height: 340px;
+}
+
+.card-title{
+  font-size: 18px!important;
+}
+
+.custom-link{
+  color: #05668d;;
+}
+
+.card{
+  border-radius: 10px!important;
+}
+
+.card:hover{
+  cursor: pointer;
+}
+
+.custom-footer{
+  background-color: #2a9d8f;
+}
+
+.collapsible-body{
+  background-color: #EEEEEE;
+}
